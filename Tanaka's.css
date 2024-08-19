@@ -1,0 +1,30 @@
+body{
+    color: white;
+    background-color: black;
+    margin: 0px;
+    padding-bottom: 80px;
+          padding-top: 80px;
+           display: grid;
+         justify-content: center;
+         font-family: "New Amsterdam", sans-serif;
+      
+         }
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(42, 122, 228)
+}
+/* section {background: black;
+          padding-bottom: 80px;
+          padding-top: 80px;
+           display: flex;
+         justify-content: center;}
+*/
+a:link {color: red;
+background-color: transparent;
+text-decoration: none;}
+
+a:visited {color: red;
+background-color: transparent;
+text-decoration: none ;}
